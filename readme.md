@@ -1,0 +1,1 @@
+Bom, esse repositiorio é apenas minhas praticas de logica de programação em linguagem c
